@@ -23,7 +23,7 @@
 Для начала клонируйте публичный репозиторий:
 
 ```sh
-git clone https://github.com/
+https://github.com/Examen33/ClickCounter.git
 ```
 
 ### Шаг 2: Создание виртуального окружения
